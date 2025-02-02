@@ -2,7 +2,7 @@
 
 Transform website advertisements into spooky, entertaining descriptions using AI! This Chrome extension detects ads on web pages and replaces them with creative, halloween-themed descriptions.
 
-![AI Ad Buster Demo](https://via.placeholder.com/800x400?text=AI+Ad+Buster+Demo)
+
 
 ## Features
 
